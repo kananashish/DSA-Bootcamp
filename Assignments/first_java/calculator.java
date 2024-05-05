@@ -25,5 +25,12 @@ public class calculator {
             default:
                 System.out.println("Check operator entered.");
         }
+//        switch (op) {
+//            case "+" -> System.out.println(num1 + " + " + num2 + " = " + (num1 + num2));
+//            case "-" -> System.out.println(num1 + " - " + num2 + " = " + (num1 - num2));
+//            case "*" -> System.out.println(num1 + " * " + num2 + " = " + (num1 * num2));
+//            case "/" -> System.out.println(num1 + " / " + num2 + " = " + (num1 / num2));
+//            default -> System.out.println("Check operator entered.");
+//        }
     }
 }
